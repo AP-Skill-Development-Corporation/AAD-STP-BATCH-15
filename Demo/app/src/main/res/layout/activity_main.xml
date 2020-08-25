@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:chaitu="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    chaitu:layout_width="match_parent"
+    chaitu:layout_height="match_parent"
+    chaitu:orientation="vertical"
+    tools:context=".MainActivity">
+
+ <Button
+     chaitu:layout_width="match_parent"
+     chaitu:layout_height="wrap_content"
+     chaitu:text="save"
+     chaitu:textSize="100sp"/>
+    <Button
+        chaitu:layout_width="match_parent"
+        chaitu:layout_height="wrap_content"
+        chaitu:text="shave"
+        chaitu:textColor="#F1032B"
+        chaitu:textStyle="italic"
+        chaitu:textSize="30sp"/>
+    <Button
+        chaitu:layout_width="match_parent"
+        chaitu:layout_height="wrap_content"
+        chaitu:text="chaitu"/>
+
+    <Button
+        chaitu:id="@+id/button6"
+        chaitu:layout_width="match_parent"
+        chaitu:layout_height="wrap_content"
+        chaitu:text="Button" />
+
+    <TextView
+        chaitu:id="@+id/textView3"
+        chaitu:layout_width="match_parent"
+        chaitu:layout_height="128dp"
+        chaitu:text="TextView" />
+</LinearLayout>
