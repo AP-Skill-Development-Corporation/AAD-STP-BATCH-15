@@ -58,7 +58,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:id="@+id/sp"/>
+        android:id="@+id/sp"
+        android:entries="@array/branch"/>
 
     <RadioGroup
         android:layout_width="match_parent"
@@ -113,6 +114,7 @@
         android:layout_marginTop="15dp"
         android:layout_gravity="center"
         android:background="@null"
+        android:onClick="save"
         android:src="@drawable/ic_submit"/>
 </LinearLayout>
 
