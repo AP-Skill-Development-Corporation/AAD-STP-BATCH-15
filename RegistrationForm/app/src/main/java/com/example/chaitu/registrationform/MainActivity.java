@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     CheckBox cb,cb1,cb2;
     RadioGroup rg;
     RadioButton rb;
+    String title[] = {"alpha","beta","cupacke"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
