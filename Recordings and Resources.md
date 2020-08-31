@@ -7,6 +7,8 @@
 ## Android Resources
 [Android](https://developer.android.com/courses/fundamentals-training/overview-v2)
 
+## Android Assignments
+[Assignments](https://github.com/chaitanyak963/Assignments/blob/master/AndroidBasics.md)
 
 ## Recording Sessions 
 
@@ -21,3 +23,5 @@
 [Day 5](https://transcripts.gotomeeting.com/#/s/d7e929bbeb08fa53f0104debd1b33d1bef427effc97419823b8916dbf3de05d0)
 
 [Day 6](https://transcripts.gotomeeting.com/#/s/bcebe09cc2559edd9db28bca7b9230049f39cd7df097d60b4534c2e7edb61810)
+
+[Day 7](https://transcripts.gotomeeting.com/#/s/5eae7463b166851d6ca4d83bbb0cb12621b97a90e3cfc87e1c4d2d454d9e7d0d)
