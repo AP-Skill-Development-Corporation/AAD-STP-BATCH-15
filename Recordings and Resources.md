@@ -7,9 +7,6 @@
 ## Android Resources
 [Android](https://developer.android.com/courses/fundamentals-training/overview-v2)
 
-## Android Assignments
-[Assignments](https://github.com/chaitanyak963/Assignments/blob/master/AndroidBasics.md)
-
 ## Recording Sessions 
 
 [Day 1](https://transcripts.gotomeeting.com/#/s/e178199bc9642562dab6ebcfa0288bb63d866b66c68991fa6ba05db983d56ce4)
