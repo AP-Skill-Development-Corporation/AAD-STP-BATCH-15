@@ -9,4 +9,6 @@
         android:title="exit"
         android:icon="@drawable/ic_exit"
         app:showAsAction="always"/>
+    <item android:id="@+id/date"
+        android:title="Date"/>
 </menu>
