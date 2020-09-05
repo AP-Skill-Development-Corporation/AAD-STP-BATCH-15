@@ -43,5 +43,5 @@
 * Create a layout file to display an image and text in each item (row.xml).
 * Use retrofit concept and parse books api .( Link : https://www.googleapis.com/books/v1/volumes?q=c ).
 * Display the book image and the book name in the recyclerview.
-Optional :
-* Add an edittext where user can type a book name and can fetch the books in the recyclerview.
+ ###### Optional :
+  * Add an edittext where user can type a book name and can fetch the books in the recyclerview.
