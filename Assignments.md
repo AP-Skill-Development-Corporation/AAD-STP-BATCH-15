@@ -28,6 +28,17 @@
 * Add an explicit intent, to read the data from the first activity and display it in the second activity.
 * Add an implicit imtent to another button , by clicking on should navigate you to gmail.
 
+#### Assignment 6
+* Create an android application to work with textview and scrollview.
+* Add 5 textviews to the application and add some data regarding your interested topics.
+* Make sure every topic include some numbers,mails and links and they have to be displayed with color code : #009624
+* Use auto link option to the textview.
+
+#### Assignment 7
+* Create an android application to work with recyclerview.
+* Create a row file in which imageview and textview should be vertically alligned.
+* Choose any movies you like from the internet add their images manually and display them in the recyclerview.
+
 ## Normal
 
 #### Assignment 1
@@ -42,6 +53,13 @@
   * Select your Interests (This option should display 5 check boxes to the user, Allow multiple selection [values: ANDROID, PHP, JAVA, PYTHON].)
   * Submit Button (This button must take you to the next activity with all the selections and inputs given above).
   * In the details activity which opens as soon as a button is clicked, show all the details got from the first screen and display them in a scrollable text view (Style: LargeText).
+  
+#### Assignment 2
+* Create an android application to work with navigation components.
+* Create 5 fragments in the application
+* Connect first 3 fragments with the mainactivity 
+* Connect remaining 2 fragments with all the 3 fragments by adding buttons to establish connectivity between them.
+* make sure that each fragment will have a different color and unique name to be displayed in the fragment.
 
 ## Hard
 
@@ -55,3 +73,12 @@
 * Display the book image and the book name in the recyclerview.
  ###### Optional :
   * Add an edittext where user can type a book name and can fetch the books in the recyclerview.
+  
+#### Assignment 3
+* Create an app that displays an ImageView and plus and minus buttons.
+* The ImageView contains a level list drawable that is a battery level indicator.
+* Pressing the plus or minus button changes the level of the indicator.
+* Use the battery icons from the Vector Asset Studio to represent 7 different values for the battery level.
+ * The app has the following properties:
+  * The plus button increments the level, causing the battery indicator to appear more full.
+  * The minus button decrements the level, causing the indicator to empty one level.
