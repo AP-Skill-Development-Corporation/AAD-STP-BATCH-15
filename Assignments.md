@@ -16,7 +16,17 @@
 * Also change the background color.
 
 #### Assignment 4
+* Create an app to work with different type of menus.
+* Add an options menu with icons one for date picker and time picker
+* Add 2 textviews in the xml file.
+* By choosing date picker should display date on first textview in bold and fontfamily as aclonica
+* By choosing time picker should display time on second textview in italic and fontfamily as cusrsive
 
+#### Assignment 5
+* Create an android application to work with intents.
+* Add an edittext and 2 buttons in the first activity and a textview in the second activity.
+* Add an explicit intent, to read the data from the first activity and display it in the second activity.
+* Add an implicit imtent to another button , by clicking on should navigate you to gmail.
 
 ## Normal
 
