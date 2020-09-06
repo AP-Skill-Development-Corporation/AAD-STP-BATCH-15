@@ -67,7 +67,7 @@
     * Change the icon for the floating action button to an appropriate icon for a map, such as the world icon.
     * In MainActivity, replace the action to display a snackbar with an implicit intent to launch the Maps app when the floating action button is tapped.
     * Add the following specific coordinates (for Google headquarters) and the zoom level (12) to a string resource called google_mtv_coord_zoom12
-    * "<string name="google_mtv_coord_zoom12">geo:37.422114,-122.086744?z=12</string>"
+    * ```<string name="google_mtv_coord_zoom12">geo:37.422114,-122.086744?z=12</string>```
     * Write code to Load a map with the above given location in string on fab
 button click.
 
