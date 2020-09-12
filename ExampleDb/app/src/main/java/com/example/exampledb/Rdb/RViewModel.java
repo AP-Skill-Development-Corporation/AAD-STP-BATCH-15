@@ -2,14 +2,16 @@ package com.example.exampledb.Rdb;
 
 import android.app.Application;
 
+import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
 import java.util.List;
 
-public class RViewModel {
+public class RViewModel extends AndroidViewModel {
     RRepository rRepository;
     LiveData<List<RTable>> list;
     public RViewModel(Application application){
+        super(application);
         rRepository = new RRepository(application);
         list = rRepository.readAllData();
     }

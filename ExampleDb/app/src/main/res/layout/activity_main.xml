@@ -25,6 +25,13 @@
         android:layout_marginTop="10dp"
         android:id="@+id/number"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="save"
+        android:layout_marginTop="10dp"
+        android:onClick="save"/>
+
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
