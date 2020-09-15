@@ -41,4 +41,7 @@
 
 [Day 16](https://transcripts.gotomeeting.com/#/s/3662e465b8b6980642f8098a9ab2b6ca18ac86ccf3acc06e13152f6d36fa4d0b)
 
+[Day 17](https://transcripts.gotomeeting.com/#/s/9889c816ba9992bfe44d35c92ad2f39b52e1016d6445b2c14e96c79e97d92f10)
+
+[Day 18](https://transcripts.gotomeeting.com/#/s/685237e77026cdf87f6eeaa706558c01220e92c3ddfd324a7afe90fab5139472)
 
